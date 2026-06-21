@@ -1,0 +1,24 @@
+{
+  "name": "digital-heroes-gst-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free Next.js + MongoDB GST invoice calculator built for the Digital Heroes trial.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^26.0.0",
+    "@types/react": "^19.2.17",
+    "mongodb": "^7.3.0",
+    "next": "^16.2.9",
+    "postcss": "^8.5.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "typescript": "^6.0.3"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
+  }
+}
