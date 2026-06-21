@@ -51,7 +51,7 @@ MONGODB_DB=digital_heroes_tools
 
 ## Submission text
 
-- Live tool URL: `https://your-vercel-url.vercel.app`
+- Live tool URL: `https://digital-hero-zeta.vercel.app/`
 - GitHub repo link: `https://github.com/aman-raza/Digital_Hero`
 - Full name + email: `Aman Raza, amanraza1234@gmail.com`
 - One line: `A GST invoice calculator I use for quick freelance pricing when I need to know the final payable amount and tax split without opening a spreadsheet.`
